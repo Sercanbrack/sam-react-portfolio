@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, { useState } from 'react'
 
 const Contact = (props) => {
     const [name, setName] = useState('')
@@ -51,7 +51,7 @@ const Contact = (props) => {
 
         </div>
     );
-    
+
 }
 
 export default Contact

@@ -3,8 +3,8 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-        <><Header></Header>
-        <Footer></Footer></> 
+    <><Header></Header>
+      <Footer></Footer></>
   );
 }
 

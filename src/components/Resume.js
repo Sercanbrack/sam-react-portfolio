@@ -8,7 +8,7 @@ const Resume = () => {
             <a className='btn btn-dark' href={ResumePDF} download="sam_ercanbrack_resume">Download my Resume!</a>
         </div>
     );
-    
+
 }
 
 export default Resume

@@ -15,10 +15,10 @@ const Portfolio = () => {
             <Project title='ReadME File Generator' github='https://github.com/Sercanbrack/module-9-challenge'></Project>
             <Project title='WebDev Blog' github='https://github.com/Sercanbrack/webdev-blog' deployed='https://my-webdev-blog.herokuapp.com/'></Project>
             <Project title='My React Portfolio' github='https://github.com/Sercanbrack/sam-react-portfolio'></Project>
-            
+
         </div>
     );
-    
+
 }
 
 export default Portfolio
