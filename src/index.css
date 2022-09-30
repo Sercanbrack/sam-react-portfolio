@@ -83,4 +83,34 @@ code {
   background-color: var(--dark);
   color: #DEE1E2;
   padding: 8px;
+  box-shadow: 5px 5px 10px #19323B
+}
+
+#project-div {
+  margin-bottom: 30px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: #19323B;
+  display: flex;
+  box-shadow: 5px 5px 10px #19323B
+}
+
+#project-title {
+  margin-left: 5px;
+  flex: 4;
+  color: white;
+}
+
+#repo-button {
+  display: flex;
+  margin-right: 5px;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-input {
+  margin: 20px;
 }
