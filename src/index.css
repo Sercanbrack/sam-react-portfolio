@@ -1,9 +1,16 @@
+:root {
+  --dark: #19323B;
+  --medium: "#53A6C4";
+  --background-light: #DEE1E2
+}
+
 body {
   margin: 0;
   font-family: 'Hind Siliguri', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #DEE1E2;
 }
 
 code {
@@ -12,7 +19,9 @@ code {
 }
 
 #title {
-  font-size: 50px;
+  font-size: 60px;
+  font-weight: bold;
+  color: var(--dark);
 }
 
 #the-navbar {
@@ -29,4 +38,49 @@ code {
   padding-left: 10px;
   padding-right: 10px;
   justify-content: space-around;
+}
+
+#nav-items:hover {
+  cursor: pointer;
+  color: var(--background-light)
+}
+
+#footer {
+  margin: 0 auto;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#logo {
+  margin: 5px;
+}
+#logo:hover {
+  cursor: pointer;
+  
+}
+
+.section-title {
+  margin-top: 50px;
+  font-weight: bold;
+  font-size: 50px;
+  color: var(--dark);
+}
+
+.section-body {
+  display: flex;
+  flex: 1;
+}
+
+#selfie {
+  border: 5px solid #616363
+}
+
+#about-me-body {
+  margin-left: 10px;
+  font-size: 22px;
+  background-color: var(--dark);
+  color: #DEE1E2;
+  padding: 8px;
 }
