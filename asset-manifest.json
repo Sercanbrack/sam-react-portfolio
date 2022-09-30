@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sam-react-portfolio/static/css/main.7b424d10.css",
+    "main.js": "/sam-react-portfolio/static/js/main.f0281be6.js",
+    "static/js/787.2c37a7e7.chunk.js": "/sam-react-portfolio/static/js/787.2c37a7e7.chunk.js",
+    "static/media/airport-selfie.jpg": "/sam-react-portfolio/static/media/airport-selfie.5a1c46dbbdde9a310317.jpg",
+    "static/media/Resume.pdf": "/sam-react-portfolio/static/media/Resume.a7e93d10ccd8eeb0feb4.pdf",
+    "static/media/linkedin.png": "/sam-react-portfolio/static/media/linkedin.ba884e1f9ad4362348c1.png",
+    "static/media/stackoverflow.png": "/sam-react-portfolio/static/media/stackoverflow.2b57c63669410bce761f.png",
+    "index.html": "/sam-react-portfolio/index.html",
+    "main.7b424d10.css.map": "/sam-react-portfolio/static/css/main.7b424d10.css.map",
+    "main.f0281be6.js.map": "/sam-react-portfolio/static/js/main.f0281be6.js.map",
+    "787.2c37a7e7.chunk.js.map": "/sam-react-portfolio/static/js/787.2c37a7e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b424d10.css",
+    "static/js/main.f0281be6.js"
+  ]
+}
