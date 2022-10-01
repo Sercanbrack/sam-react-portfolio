@@ -56,9 +56,10 @@ code {
 #logo {
   margin: 5px;
 }
+
 #logo:hover {
   cursor: pointer;
-  
+
 }
 
 .section-title {

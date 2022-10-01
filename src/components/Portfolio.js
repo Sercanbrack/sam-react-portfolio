@@ -9,7 +9,7 @@ const Portfolio = () => {
         <div className='Portfolio container'>
             <h2 className='section-title'>Portfolio</h2>
             <br></br><br></br>
-            <Project title='Mint' github='https://github.com/bunt88/Mint'></Project>
+            <Project title='Mint' github='https://github.com/bunt88/Mint' deployed='https://mintapplication.herokuapp.com/'></Project>
             <Project title='DnD Right Here' github='https://github.com/Sercanbrack/dnd-right-here'></Project>
             <Project title='MedTracker' github='https://github.com/ciaragauntt/MedTracker'></Project>
             <Project title='ReadME File Generator' github='https://github.com/Sercanbrack/module-9-challenge'></Project>
